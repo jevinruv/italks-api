@@ -1,0 +1,4 @@
+[27-Jun-2018 03:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllUsers() on null in /home/bitehunter/public_html/iTalks/rest/manage-user/index.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/bitehunter/public_html/iTalks/rest/manage-user/index.php on line 49
